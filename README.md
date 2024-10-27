@@ -1,4 +1,4 @@
 # Brainwave
 
-#Task for web devlopment Intern 
+#Task for web development Intern 
 #TO DO LIST ( Using HTML , CSS , Javascript)
